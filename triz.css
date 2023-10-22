@@ -30,8 +30,8 @@ body {
 }
 .lista {
         display: inline-block;
-        padding: 5%;
-        margin-right: 10%;
+        padding: 5 %;
+        margin-right: 10 %;
         color: black;
     }
 
