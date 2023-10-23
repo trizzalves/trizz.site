@@ -1,5 +1,5 @@
 h1 {
-    color: lightblue;
+    color: black;
 }
 h2{
     color: black;
@@ -10,11 +10,11 @@ h3{
 
 
 body {
-    background-color: rgb(217, 217, 250);
+    background-color: blue
     text-align: center;
 }
 .imagem1 {
-    width: 10%;
+    width: 15%;
 }
 .imagemcentralizada {
  text-align: center;
