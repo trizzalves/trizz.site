@@ -35,10 +35,14 @@ body {
         color: black;
     }
 
-nav a{
+nav a {
     text-transform: uppercase;
     color: black;
     font-weight: 300;
     font-size: 100%;
     text-decoration: none;
+}
+nav a: hover {
+    color: lightblue;
+    text-decoration: underline;
 }
