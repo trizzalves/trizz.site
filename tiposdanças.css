@@ -34,7 +34,7 @@ body {
   background-color: rgb(193, 168, 240);
   text-align:center;
 }
-nav a: hover {
+nav a:hover {
     color: lightpurple;
     text-decoration: underline;
 }
